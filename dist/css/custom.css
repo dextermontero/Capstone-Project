@@ -1,0 +1,24 @@
+@media only screen and (max-width: 768px) { 
+	.bg-background-image {
+		display: none;
+	}
+	.bg-background-image {
+		display: none;
+	}	
+}
+@media screen and (max-width: 800px) {
+	.bg-background-image {
+		display: none;
+	}
+	.bg-background-image {
+		display: none;
+	}	
+}
+@media screen and (max-width: 1000px) {
+	.bg-background-image {
+		display: none;
+	}
+	.bg-background-image {
+		display: none;
+	}
+}		
